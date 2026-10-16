@@ -1,4 +1,4 @@
-# FITJoin
+# FIT-Join
 
 Merge many `.fit` activity files into one. After cycling across the USA I had 80+ days of Strava files and wanted to see the ride as a single activity, so I built this as a FastAPI service, containerised it with Docker and deployed it to AWS.
 
