@@ -31,7 +31,10 @@ Why Docker?
 - Dependancy management - we will make use of third party python pakcages. Including these in the container ensures they are always available. Removes the need for python installation itself in the production environment.
 - Easy deplyment.
 
-Why AWS? 
+AWS decisions? 
+- AWS is a popular cloud platform. I wanted to learn it. Realistically however, it is not the cheapest option for this project, which would work just fine self hosted on a raspberry pi or similar.
+- Pre-built ways to deploy docker containers.
+- Much higher levels of control compared with platforms like Supabase or Render
 
 # Python 
 
